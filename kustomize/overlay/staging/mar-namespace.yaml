@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: mar
+  labels:
+    environment-id: env_381f5250-e98e-454c-8173-8d29c142e14a
+    project-id: project_fcbfd9aa-ae26-4b5c-bc4b-87ba7314a3d3
+    project-name: kelcier
+    environment-name: staging
+    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900
